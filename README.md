@@ -9,4 +9,4 @@ My last travels led me to:
 - norway
 - poland
 
-![Paco Schwab](https://drive.google.com/file/d/1WSQYL13BYhs44bKeqD344t7CfSGMU6kb/view?usp=share_link)
+![Paco Schwab](https://www.ausliebezumhaustier.de/wp-content/uploads/2020/05/katzenbabys-entwicklung-1.jpg)
