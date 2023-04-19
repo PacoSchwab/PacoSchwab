@@ -1,6 +1,6 @@
 # Hallo Welt!
 
-My name is Paco and I am an actor as well as a theatre- and psychotherapist, living in Berlin. I recently worked as a product manager and head coach for    KidsCircle UG, a digital childcare service providing remote childcare sessions. In my free time I love hiking, dancing, theatre and sports.
+"After graduating from high school and starting a degree in education, I completed training as a state-certified actor. After gaining some experience on stage, I developed a connection to the social sector as a theater therapist and educator. Already during my work at KidsCircle, I had some exposure to coding and UX/UI, which is why I would like to specialize as a web developer in this field, as well as in accessibility, and bring in my social, communicative, creative, and organizational skills. Building a bridge between the implementation of my creative ideas on the one hand and an visually appealing, user-friendly, and barrier-free user journey on the other is a matter of the heart to me."
 
 
 ![Paco Schwab](https://www.ausliebezumhaustier.de/wp-content/uploads/2020/05/katzenbabys-entwicklung-1.jpg)
